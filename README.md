@@ -48,9 +48,9 @@ cd [NOME_DA_PASTA_DO_PROJETO]
 Crie um Ambiente Virtual (Recomendado):
 
 python -m venv venv
-# No Windows:
+
 .\venv\Scripts\activate
-# No macOS/Linux:
+
 source venv/bin/activate
 
 Instale as Dependências:
